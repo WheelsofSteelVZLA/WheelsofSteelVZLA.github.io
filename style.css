@@ -1,0 +1,14 @@
+body{
+	height:100%;
+	width:100%;
+	background-color:#444444;
+	color:white;
+}
+.cover{
+	padding-top:10rem;
+	padding-bottom:10rem;
+}
+.col-7{
+	background-color:blue;
+	border-color:green;
+}

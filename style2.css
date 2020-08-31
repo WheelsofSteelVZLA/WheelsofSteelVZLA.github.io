@@ -1,0 +1,29 @@
+body{
+	height:100%;
+	width:100%;
+	background-color:#444444;
+	color:white;
+}
+.content{
+	padding-top:4rem;
+	padding-bottom:4rem;
+}
+hr{
+	background-color:white;
+}
+.navbar{
+	background-color:rgba(68,68,68,0.6);
+}
+.imgsource{
+	height:90%;
+	width:30%;
+}
+.buttoninfo{
+	padding-top:4rem;
+}
+.cards{
+	padding-top:2rem;
+}
+.container-fluid{
+	padding-top:3rem;
+}
